@@ -1,3 +1,3 @@
 # Task-Manager
-Task Manager(GUI)
-This project is based on GUI python Tkinter 
+Task Manager (GUI) 
+A tkinter GUI based mini project to handle various pending and completed tasks for a daily basis.
